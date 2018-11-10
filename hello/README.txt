@@ -3,6 +3,13 @@
 * How to run:
 
 > export FLASK_APP=hello.py
+
+on UNIX/OSX
+
+> set FLASK_APP=hello.py
+
+on Windows
+
 > flask run
 
 or
